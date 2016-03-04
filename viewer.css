@@ -1,0 +1,14 @@
+body {
+	background-color: #709C34;
+}
+
+#randomView {
+	font-family: "Lucida Grande","Lucida Sans Unicode", Tahoma, Sans-Serif;
+	color: #FFF;
+	/*text-decoration: none;*/
+	/*cursor: pointer;*/
+}
+
+.row {
+	margin-top: 30%;
+}
